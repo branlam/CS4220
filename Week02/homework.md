@@ -26,7 +26,7 @@ HINT: Take a look at [mozilla dev docs](https://developer.mozilla.org/en-US/docs
 
 ##### 4. Write a function called countingWords and it counts the number of times they are present in the array.
 The countingWords function accepts an array argument.
-The function output an object wit the key as the word and the count as the value.
+The answer should be an object wit the key as the word and the count as the value.
 
     const arr = ['hi', 'hi', 'hello', 'world', hello', 'hi' , 'greetings']
     countingWords(arr);
