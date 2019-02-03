@@ -35,8 +35,9 @@ The answer should be an object wit the key as the word and the count as the valu
 
 #### 4. Write a function called createAnimals and is able to create an object.
 The function createAnimals accepts a nested array of objects which contain a property and what that property should be assigned to.
-The function is able create a nested object with the key as the index from the array
-and then the object which is created from the property and assignment.
+The function should create a nested object with the key as the index from the array and the value which is the object created from the property and assignment. 
+
+HINT: You may use the words 'property' and 'assign' to check whether it is a property key or an assigned value.
 
  ```
     const arr =
