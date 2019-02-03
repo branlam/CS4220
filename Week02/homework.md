@@ -37,19 +37,22 @@ The function output an object wit the key as the word and the count as the value
 The function createAnimals accepts a nested array of objects which contain a property and what that property should be assigned to.
 The function is able create a nested object with the key as the index from the array
 and then the object which is created from the property and assignment.
-const arr =
-    [
+
+ ```
+    const arr =
         [
-            { property: 'name', assign: 'Garfield'},
-            { property: 'owner', assign: 'Jon Arbuckle'},
-            { property: 'type', assign: 'cat' }
-        ],
-        [
-            { property: 'name',assign: 'Snoopy' },
-            { property: 'owner',assign: 'Charlie Brown' },
-            { property: 'type',assign: 'dog' }
+            [
+                { property: 'name', assign: 'Garfield'},
+                { property: 'owner', assign: 'Jon Arbuckle'},
+                { property: 'type', assign: 'cat' }
+            ],
+            [
+                { property: 'name',assign: 'Snoopy' },
+                { property: 'owner',assign: 'Charlie Brown' },
+                { property: 'type',assign: 'dog' }
+            ]
         ]
-    ]
+```
 
     createAnimals(arr)
 
