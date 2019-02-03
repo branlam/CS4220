@@ -77,6 +77,16 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 
 <hr/>
 
+
+**Week 2**
+ - Intro to Javascript
+ - Arrays, Objects
+ - Functions
+
+
+<hr/>
+
+
 ### Online Resources
 
 **Javascript Text Editors / IDE**
