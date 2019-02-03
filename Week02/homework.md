@@ -17,7 +17,7 @@ This function replaces letters in the string with a dash (-) if they are contain
 ##### 2. Write a function called sumArray.
 The sumArray function should sums all the numbers in an array of mixed primatives.
 The function should be able to sum both numbers and any string that can be converted to a number. 
-HINT: Take a look at mozilla dev docs .... parseInt() Number.isNaN() etc
+HINT: Take a look at [mozilla dev docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) .... parseInt() Number.isNaN() etc
 
     const arr = [5, 2, 'a', 4, '7', true, 'b', 'c', 7, '8', false]
     sumArray(arr)
