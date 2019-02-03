@@ -1,8 +1,8 @@
-## Week 2 Homework - Due Friday 02/21/18 at 11:59pm
+## Week 2 Homework - Due Friday 02/08/18 at 11:59pm
 Complete all the problems below. 100 Points total.
 
 - For FULL credit use proper ES6 syntax including using let/const properly.
-- For FULL do not hard code values (unless otherwise stated).
+- For FULL credit do not hard code values (unless otherwise stated).
 
 
 ##### 1.  Write a function called replaceLetters and that takes a string and an array of letters.
@@ -11,12 +11,12 @@ This function replaces letters in the string with a dash (-) if they are contain
 
     const arr = ['a', 'e, 'i', 'o', 'u' ]
     replaceLetters('node.js', arr)
-    // n-d-e.js
+    // n-d-.js
 
 
 ##### 2. Write a function called sumArray.
 The sumArray function should sums all the numbers in an array of mixed primatives.
-The function should be able to sum both numbers and any string that can be converted to a number
+The function should be able to sum both numbers and any string that can be converted to a number. HINT: parseInt()
 
     const arr = [5, 2, 'a', 4, '7', true, 'b', 'c', 7, '8', false]
     sumArray(arr)
@@ -28,7 +28,7 @@ The countingWords function accepts an array argument.
 The function output an object wit the key as the word and the count as the value.
 
     const arr = ['hi', 'hi', 'hello', 'world', hello', 'hi' , 'greetings']
-    countingWords([arr);
+    countingWords(arr);
     // { hi: 3, hello: 2, world: 1, greetings: 1 }
 
 
@@ -44,14 +44,15 @@ const arr =
             { property: 'type', assign: 'cat' }
         ],
         [
-            {property: 'name',assign: 'Snoopy' },
-            {property: 'owner',assign: 'Charlie Brown' },
-            {property: 'type',assign: 'dog' }
+            { property: 'name',assign: 'Snoopy' },
+            { property: 'owner',assign: 'Charlie Brown' },
+            { property: 'type',assign: 'dog' }
         ]
     ]
 
     createAnimals(arr)
+
     {
-      '1': { name: 'Garfield', owner: 'Jon Arbuckle', typ: 'cat' },
-      '2': { name: 'Snoopy', owner: 'Charlie Brown', type: 'dog' }
+      '0': { name: 'Garfield', owner: 'Jon Arbuckle', typ: 'cat' },
+      '1': { name: 'Snoopy', owner: 'Charlie Brown', type: 'dog' }
     }
