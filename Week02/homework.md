@@ -1,8 +1,9 @@
 ## Week 2 Homework - Due Friday 02/08/18 at 11:59pm
-Complete all the problems below. 100 Points total.
+Complete all the problems below. 100 Points total. Please submit homework to CSNS.
 
 - For FULL credit use proper ES6 syntax including using let/const properly.
 - For FULL credit do not hard code values (unless otherwise stated).
+- For FULL credit upload only a single javascript file and output all answers to the console.
 
 
 ##### 1.  Write a function called replaceLetters and that takes a string and an array of letters.
@@ -16,7 +17,7 @@ This function replaces letters in the string with a dash (-) if they are contain
 
 ##### 2. Write a function called sumArray.
 The sumArray function should sums all the numbers in an array of mixed primatives.
-The function should be able to sum both numbers and any string that can be converted to a number. 
+The function should be able to sum both numbers and any string that can be converted to a number.
 HINT: Take a look at [mozilla dev docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) .... parseInt() Number.isNaN() etc
 
     const arr = [5, 2, 'a', 4, '7', true, 'b', 'c', 7, '8', false]
@@ -35,9 +36,9 @@ The answer should be an object wit the key as the word and the count as the valu
 
 #### 4. Write a function called createAnimals and is able to create an object.
 The function createAnimals accepts a nested array of objects which contain a property and what that property should be assigned to.
-The function should create a nested object with the key as the index from the array and the value which is the object created from the property and assignment. 
+The function should create a nested object with the key as the index from the array and the value which is the object created from the property and assignment.
 
-HINT: You may use the words 'property' and 'assign' to check whether it is a property key or an assigned value.
+HINT: You may use the words 'property' and 'assign' as needed to compose the expected output object.
 
  ```
     const arr =
