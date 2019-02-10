@@ -86,6 +86,15 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 
 <hr/>
 
+**Week 3**
+ - Intro to Javascript Continued
+ - Arrays, Objects with Destructuring
+ - Template Literals
+ - Classes and Inheritance
+
+
+<hr/>
+
 
 ### Online Resources
 
