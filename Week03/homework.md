@@ -34,22 +34,29 @@ It should additionally use template literals syntax when printing to the console
 
 
 #### 2. Write a class that allows you to build a grocery list and track items, quantity and optional price.
-Each grocery entry will look like this:
+Each grocery entry will look like this: <br/>
 `{
         item: 'item name'
-        quantity: 1
+        quantity: 1,
         price: 1.99  // optional
 }`
 
 The class should have the following methods:
-- the class should be written to allow for dot chaining notation
-- constructor: accepts an array of objects or if nothing is passed - defaults to an empty array <br />
-- addItem(obj): Accepts an object and adds a grocery to the list. Uses destructuring for the grocery object <br />
-- removeItem(string): Accepts a string. Removes a grocery item by name if the quantity is 1. Else it decreases the quantity by 1. <br />
-- addPrice(string, number): Accepts a string and number. Adds the price to the specified grocery item. <br />
-- addTotal(): Accepts no arguments.  Calculates the total of all known grocery prices. Takes into account quantity.  <br />
-- print: prints the details about the Groceries as formatted in the example below
+- Class should be written to allow for dot chaining notation.
+- constructor
+   - Accepts an array of objects or if nothing is passed - defaults to an empty array <br />
+- addItem(_object_): 
+   - Accepts an object and adds a grocery to the list. Uses destructuring for the grocery object <br />
+- removeItem(_string_): 
+   - Accepts a string. Removes a grocery item by name if the quantity is 1. Else it decreases the quantity by 1. <br />
+- addPrice(_string, number_): 
+   - Accepts a string and number. Adds the price to the specified grocery item. <br />
+- addTotal(): 
+   - Accepts no arguments.  Calculates the total of all known grocery prices. Takes into account quantity.  <br />
+- print: 
+   - Prints the details about the Groceries as formatted in the example below. Print should be called without `()`
 
+```
         cart
             .addItem({ item: 'bread', quantity: '1'})
             .addItem({ item: 'soup', quantity: '3'})
@@ -67,3 +74,4 @@ The class should have the following methods:
         // Item: chips | Quantity: 3 | Price: 5.99
         // Item: soda | Quantity: 1 | Price: 1.04
         // Total: 19.01
+```
