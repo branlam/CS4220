@@ -48,9 +48,9 @@ The class should have the following methods:
 - addItem(_object_): 
    - Accepts an object and adds a grocery to the list. Uses destructuring for the grocery object <br />
 - removeItem(_string_): 
-   - Accepts a string. Removes a grocery item by name if the quantity is 1. Else it decreases the quantity by 1. <br />
+   - Accepts a case insensitive string. Removes a grocery item by name if the quantity is 1. Else it decreases the quantity by 1. <br />
 - addPrice(_string, number_): 
-   - Accepts a string and number. Adds the price to the specified grocery item. <br />
+   - Accepts a case insensitive string and number. Adds the price to the specified grocery item. <br />
 - addTotal(): 
    - Accepts no arguments.  Calculates the total of all known grocery prices. Takes into account quantity.  <br />
 - print: 
