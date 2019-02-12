@@ -7,8 +7,10 @@ Complete all the problems below. 100 Points total. Please submit homework to CSN
 
 
 ##### 1.  Write a function called print which accepts an object and prints to the console.
-For full credit the function should use destructing in the argument and use empty default values.
-It should additionally use template literals syntax when printing to the console.
+For full credit:
+- The function should use destructing in the argument and use empty default values.
+- It should additionally use template literals syntax when printing to the console.
+- The printout to the console should look **exactly** like the give example below.
 
     const group1 = {
         name: 'Justice League',
