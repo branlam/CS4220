@@ -12,6 +12,7 @@ For full credit:
 - It should additionally use template literals syntax when printing to the console.
 - The printout to the console should look **exactly** like the give example below.
 
+```
     const group1 = {
         name: 'Justice League',
         leader: 'Wonder Woman',
@@ -33,6 +34,7 @@ For full credit:
     //  Team: Avengers
     //  Leader:
     //  Members: Hulk, Thor and Captain America
+```
 
 
 #### 2. Write a class that allows you to build a grocery list and track items, quantity and optional price.
