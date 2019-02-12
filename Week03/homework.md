@@ -10,7 +10,7 @@ Complete all the problems below. 100 Points total. Please submit homework to CSN
 For full credit:
 - The function should use destructing in the argument and use empty default values.
 - It should additionally use template literals syntax when printing to the console.
-- The printout to the console should look **exactly** like the give example below.
+- The printout to the console should look **exactly** like the give example below. (The words "Team", "Leader" and "Members" can be hardcoded).
 
 ```
     const group1 = {
