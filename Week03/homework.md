@@ -50,7 +50,7 @@ The class should have the following methods:
 - constructor
    - Accepts an array of objects or if nothing is passed - defaults to an empty array <br />
 - addItem(_object_): 
-   - Accepts an object and adds a grocery to the list. Uses destructuring for the grocery object.  Use defaults for quantity. <br />
+   - Accepts an object and adds a grocery to the list. Uses destructuring for the grocery object.  Use a default of 1 for quantity. <br />
 - removeItem(_string_): 
    - Accepts a case insensitive string. Removes a grocery item by name if the quantity is 1. Else it decreases the quantity by 1. <br />
 - addPrice(_string, number_): 
