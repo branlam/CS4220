@@ -1,4 +1,4 @@
-## Week 3 Homework - Due Friday 02/15/18 at 11:59pm
+## Week 3 Homework - Due Friday 02/17/18 at 11:59pm
 Complete all the problems below. 100 Points total. Please submit homework to CSNS.
 
 - For FULL credit use proper ES6 syntax including using let/const properly.
