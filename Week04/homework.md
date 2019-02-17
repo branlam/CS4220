@@ -37,6 +37,9 @@ If it does not then it callsback with an error and only the name.
 This function accepts an array of objects.  It prints the results ONLY when the entire todo array has been iterated.
 It should print each the priority array and the error array seperately.
 
+- EXTRA CREDIT (+10)
+    - When printing inside makePriorityList(), print the array sorted by priority from highest to lowest.
+
 ```
     const todos = [{
         name: 'get coffee',
