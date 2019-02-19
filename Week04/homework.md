@@ -10,9 +10,9 @@ Complete all the problems below. 100 Points total. Please submit homework to CSN
 #### 1. Using async/await syntax write a set of functions that adds numbers and awaits for the total.
 Requirements
 - Use async/await syntax
-- Use Promise with setTimeout()
+- Use Promise with setTimeout() in adder() function.
 - adder(previous, next)
-This function accepts the previous number and the next number. It resolves a Promise after 10ms to return the new total.
+This function accepts the previous number and the next number. It resolves a Promise after 10ms to return the new total. You can assume that adder starts with a base of 0 (which can be hard coded).
 
 - iterateNumbers(numbers)
 This function accepts an array of numbers to be totaled.  It prints the total when all numbers have been added.
