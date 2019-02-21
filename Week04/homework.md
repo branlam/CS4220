@@ -28,7 +28,7 @@ Requirements
 - Use callbacks
 - Use setTimeout()
 
-- checkPriority(todo)
+- checkPriority(todo, callaback)
 This function accepts a todo object. It checks if the todo has a priority associated to it.
 If it does then it callsback after 90ms with the priority object.
 If it does not then it callsback with an error and only the name.
@@ -43,7 +43,7 @@ It should print each the priority array and the error array seperately.
 ```
     const todos = [{
         name: 'get coffee',
-        priority: 9
+        priority: 90
     },
     {
         name: 'clean room',
@@ -51,11 +51,11 @@ It should print each the priority array and the error array seperately.
     },
     {
         name: 'go to CS4220',
-        priority: 4
+        priority: 40
     },
     {
         name: 'do homework before due date',
-        priority: 8
+        priority: 80
     }]
     makePriorityList(todos)
 
