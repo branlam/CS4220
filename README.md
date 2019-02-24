@@ -95,6 +95,22 @@ All parties involved will receive a grade of F for the assignment.  Additionally
 
 <hr/>
 
+**Week 4**
+ - Javascript Timers
+ - Callbacks
+ - Promises with async/await
+
+
+<hr/>
+
+**Week 5**
+ - Intro to Node.js
+ - Event Loop
+ - FS and HTTP
+
+
+<hr/>
+
 
 ### Online Resources
 
