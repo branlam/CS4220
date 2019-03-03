@@ -1,19 +1,26 @@
 const
-    app = require('./app'),
-    yargs = require('yargs')
+    yargs = require('yargs'),
+    app = require('./app')
 
-
-const flags = yargs.usage('$0: Usage <cmd> [options]')
+const flags = yargs
+    .usage('$0: Usage <cmd> [options]')
     .command({
         command: 'draw',
-        desc: 'draws a card from the deck',
+        desc: 'draws cards from a deck',
         builder: (yargs) => {
-            return yargs.option('s', {
+            return yargs.options('s', {
                 alias: 'shuffle',
-                describe: 'shuffle the deck before drawing'
+                describe: 'shuffles the deck before drawing',
+                boolean: true
+            })
+            .options('c', {
+                alias: 'count',
+                describe: 'number of cards to draw',
             })
         },
-        handler: (argv) => { app.draw(argv.shuffle) }
+        handler: (argv) => {
+            app.draw(argv.shuffle, argv.count)
+        }
     })
     .help('help')
     .argv
