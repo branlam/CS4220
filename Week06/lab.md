@@ -49,5 +49,5 @@ For example if running `node cli.js draw --shuffle true --count 3`
 
  TOTAL CARD VALUE: 23
 
- REMAINING CARDS: 48
+ REMAINING CARDS: 49
 ```
