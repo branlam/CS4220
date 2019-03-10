@@ -7,7 +7,7 @@
 
 **package.json** <br/>
 The module should have a package.json file that is properly filled out.
-  - It should include but not limited to (name, version, author, contributors, dependencies, etc)
+  - It should include but not limited to (name, version, author, description, dependencies, etc)
 
 **Methods** <br/>
 The module should export a method for searching.
