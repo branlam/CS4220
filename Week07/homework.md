@@ -1,4 +1,4 @@
-## Week 7 Homework - Due Tuesday 03/12/19 at 11:59pm
+## Week 7 Homework - Due Tuesday 03/12/19 at 11:59pm - 50pts
 
 ---
 
