@@ -30,6 +30,10 @@ Email: acervan5@calstatela.edu
 **Course Description:** <br/>
 This course will cover Node.js for the server-side and Vue.js for the frontend user interface. It will begin with a discussion on the fundamentals, including syntax, scope, the eventloop, callbacks and more. Then the class will jump right into teaching the Node.js platform through handling HTTP methods GET, POST, PUT and DELETE to execute operations, utilizing open-source modules and covering the Vue.js framework.  The course will have several homework assignments and a project where students will build a RESTful web service application using Node.js and Vue.js.
 
+**Course Structure** <br/>
+This course is to be conducted entirely in face-to-face lectures. As an added benefit to students the course also offers video lecture broadcasts. You will participate in the course using a CSNS and Github.
+
+
 **Recommended Prerequisites:** <br/>
 CS1220, CS2011, CS3220 <br/>
 Students are expected to have strong programming skills and working knowledge of HTML.
@@ -55,10 +59,6 @@ Please submit all assignments via CSNS - http://csns.calstatela.edu/
 Homework/Lab and/or Project assignments may be submitted up to 24 hours late with a 15 point late penalty deduction.  After the 24 hour period, no additional submissions will be accepted and a grade of 0 will be given for the assignment.
 
 **NO** late Midterm or Finals. No late Quizzes.  If a student is not in attendance during the Midterm or Final or Quiz they will receive a 0 on that exam.
-
-**Academic Integrity** <br/>
-Cheating will not be tolerated. Cheating on any assignment or project will be taken seriously.
-All parties involved will receive a grade of F for the assignment.  Additionally, all parties can receive an F for the course and be reported to the Academic Senate
 
 <hr/>
 
@@ -107,10 +107,50 @@ All parties involved will receive a grade of F for the assignment.  Additionally
  - Intro to Node.js
  - Event Loop
  - FS and HTTP
+ 
+ <hr/>
 
+**Week 6**
+ - Node.js with Node Modules
+ - Intro into APIs
+ - Intro into Command Line Interfaces
+ 
+ <hr/>
+
+**Week 7**
+ - Interacting with APIs
+ - Building a Custom Node Module
+ - Building a Command Line Application
 
 <hr/>
 
+### HELPFUL STUDENT RESOURCES
+
+***Technical Resources** <br />
+Information on CSULA technical support resources for students: [Technical Support](http://www.calstatela.edu/cetl/technical-support-resources)
+
+***Student Support Services*** <br />
+Information on CSULA student support resources for students: [Student Services](http://www.calstatela.edu/cetl/student-support-resources)
+
+**Academic Support Services** <br />
+Information on CSULA academic support resources for students: [Academic Support](http://www.calstatela.edu/cetl/academic-support-resources)
+
+--- 
+ ### COURSE & UNIVERSITY POLICIES
+
+**Student Handbook** <br />
+Information on student rights and responsibilities, academic honesty, standards of conduct, etc., can be found in Schedule of Classes for the current quarter visit the Cal State LA Schedule of Classes Information under Policies and Procedures. 
+
+**Dropping and Adding** <br />
+Students are responsible for understanding the policies and procedures about add/drops, academic renewal, etc. Students should be aware of the current deadlines and penalties for adding and dropping classes by visiting the GET home page. (Registrar news and information) 
+
+**Americans with Disabilities Act (ADA)** <br />
+Reasonable accommodation will be provided to any student who is registered with the Office of Students with Disabilities and requests needed accommodation. For more information visit the Office for Students with Disabilities home page.  
+
+**Academic Honesty/Student Conduct**
+All work you submit must be your own scholarly and creative efforts.  Any act of using ideas, words, or work of another person or persons as if they were one’s own is considered as cheating. Cheating will not be tolerated. Cheating on any assignment or exam will be taken seriously.  All parties involved will receive a grade of F for the course and be reported to the University Official. Check Appendix E - Student Conduct / Student Conduct Procedures to see student code of conduct in Cal State LA.
+
+--- 
 
 ### Online Resources
 
