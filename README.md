@@ -74,17 +74,14 @@ Homework/Lab and/or Project assignments may be submitted up to 24 hours late wit
  - Installing Node.js / Setup development environment
  - Intro to Javascript
 
-
-<hr/>
-
+<br/>
 
 **Week 2**
  - Intro to Javascript
  - Arrays, Objects
  - Functions
 
-
-<hr/>
+<br/>
 
 **Week 3**
  - Intro to Javascript Continued
@@ -92,52 +89,50 @@ Homework/Lab and/or Project assignments may be submitted up to 24 hours late wit
  - Template Literals
  - Classes and Inheritance
 
-
-<hr/>
+<br/>
 
 **Week 4**
  - Javascript Timers
  - Callbacks
  - Promises with async/await
 
-
-<hr/>
+<br/>
 
 **Week 5**
  - Intro to Node.js
  - Event Loop
  - FS and HTTP
  
- <hr/>
+<br/>
 
 **Week 6**
  - Node.js with Node Modules
  - Intro into APIs
  - Intro into Command Line Interfaces
  
- <hr/>
+<br/>
 
 **Week 7**
  - Interacting with APIs
  - Building a Custom Node Module
  - Building a Command Line Application
 
-<hr/>
+<br/>
 
 **Week 8**
  - Continue Interacting with APIs
  - Building a Server with Node
  - Serving static HTML
 
-<hr/>
+<br/>
 
 **Week 9**
- MIDTERM
+ - MIDTERM
  
- <hr/>
+<br/>
  
- **Week 10**
- NO CLASS _ SPRING BREAK
+**Week 10**
+ - NO CLASS - SPRING BREAK
 
 <hr/>
 
