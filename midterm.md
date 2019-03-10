@@ -20,7 +20,7 @@ The module should export a method for fetching data by id. <br/>
 
 **Additional Guidelines**
   - Your custom module should use superagnet/request or similar modules to make the direct HTTP calls to your API.
-  - Ideally you should be creating a config.json to hold the main portion of the url and API key (if your API requires one).
+  - You should be creating a config.json to hold the main portion of the url and API key (if your API requires one).
 
 ---
 
@@ -29,7 +29,7 @@ Create a command line interface similar to the example ones from class.
 
 **package.json** <br/>
 The module should have a package.json file that is properly filled out.
-  - It should include but not limited to (name, version, author, contributors, dependencies, etc)
+  - It should include but not limited to (name, version, author, description, dependencies, etc)
 
 **cli.js** <br/>
   - The CLI app should display a help menu by typing: `node cli.js help`
@@ -73,7 +73,7 @@ The module should have a package.json file that is properly filled out.
 
 ### Example APIs <br/>
   - Review the selected API and make sure you are able to use it to fulfill the Midterm requirements.
-  - Limit of 2 teams per API
+  - Only ~5 people per API
 
 TV Maze
 - https://www.tvmaze.com/api
