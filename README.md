@@ -31,7 +31,7 @@ Email: acervan5@calstatela.edu
 This course will cover Node.js for the server-side and Vue.js for the frontend user interface. It will begin with a discussion on the fundamentals, including syntax, scope, the eventloop, callbacks and more. Then the class will jump right into teaching the Node.js platform through handling HTTP methods GET, POST, PUT and DELETE to execute operations, utilizing open-source modules and covering the Vue.js framework.  The course will have several homework assignments and a project where students will build a RESTful web service application using Node.js and Vue.js.
 
 **Course Structure** <br/>
-This course is to be conducted entirely in face-to-face lectures. As an added benefit to students the course also offers video lecture broadcasts. You will participate in the course using a CSNS and Github.
+This course is to be conducted in face-to-face lectures. As an added benefit to students the course also offers video lecture broadcasts. There is **no** expectation that broadcasted lectures will be saved and uploaded.  You will participate in the course using a CSNS, Slack and Github.
 
 
 **Recommended Prerequisites:** <br/>
@@ -121,6 +121,23 @@ Homework/Lab and/or Project assignments may be submitted up to 24 hours late wit
  - Interacting with APIs
  - Building a Custom Node Module
  - Building a Command Line Application
+
+<hr/>
+
+**Week 8**
+ - Continue Interacting with APIs
+ - Building a Server with Node
+ - Serving static HTML
+
+<hr/>
+
+**Week 9**
+ MIDTERM
+ 
+ <hr/>
+ 
+ **Week 10**
+ NO CLASS _ SPRING BREAK
 
 <hr/>
 
