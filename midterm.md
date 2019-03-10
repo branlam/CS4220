@@ -62,10 +62,13 @@ The module should have a package.json file that is properly filled out.
   - Going over time loses points.
   - Going WAY under time would also lost points.
 
-**Code Execution**
+**Code**
   - Code runs during video presentation
   - There are no errors
   - Code covers/includes exactly what was detailed in the above requirements
+  - Code uses proper ES6 syntax including using let/const properly 
+  - Code is clean and formatted.  Variables names make sense and are logical.
+  - Nothing is hard coded unless absolutely needed.
 
 ---
 
