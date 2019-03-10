@@ -23,6 +23,7 @@ The module should export a method for fetching data by id. <br/>
   - Ideally you should be creating a config.json to hold the main portion of the url and API key (if your API requires one).
 
 ---
+
 ### CLI Requirements
 Create a command line interface similar to the example ones from class.
 
@@ -38,16 +39,17 @@ The module should have a package.json file that is properly filled out.
   - The app should allow a user to select from a search result and then fetch details
   - The app should display the details formatted cleanly printed as strings (do not print objects).
 
-**The CLI portion should not contain the API URL. The CLI should only being using your custom node module.**
+**Additional Guidelines**
+  - The CLI portion should not contain the API URL. The CLI should only being using your custom node module.
 
 ---
 
 ### WHAT TO UPLOAD TO CSNS
 
 - ZIP File of Custom Node Module
-    -- ONLY include index.js, package.json, config.json
+  - ONLY include index.js, package.json, config.json
 - ZIP File of CLI
-    -- ONLY include cli.js, app.js, package.json
+  - ONLY include cli.js, app.js, package.json
 - 2 Min Video Presentation (mp4 only)
 
 ---
@@ -147,7 +149,7 @@ Oxford Dictionary
 Other APIs
 - https://github.com/toddmotto/public-apis
 
---
+---
 
 Disallowed APIs
 - Deck of Cards
