@@ -46,10 +46,9 @@ The module should have a package.json file that is properly filled out.
 
 ### WHAT TO UPLOAD TO CSNS
 
-- ZIP File of Custom Node Module
-  - ONLY include index.js, package.json, config.json
-- ZIP File of CLI
-  - ONLY include cli.js, app.js, package.json
+- ZIP File with 2 folders inside
+  - FOLDER for the custom module which includes - ONLY index.js, package.json, config.json
+  - FOLDER for the CLI which includes - ONLY cli.js, app.js, package.json
 - 2 Min Video Presentation (mp4 only)
 
 ---
