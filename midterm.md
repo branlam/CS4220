@@ -9,7 +9,7 @@
 The module should have a package.json file that is properly filled out.
   - It should include but not limited to (name, version, author, description, dependencies, etc)
 
-**Methods** <br/>
+**index.js** <br/>
 The module should export a method for searching.
   - Given a search criteria it should return an an array that represent the result set. <br/>
     (EX: game title, city, character, actor/actress or artist)
