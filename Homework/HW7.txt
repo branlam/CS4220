@@ -1,0 +1,14 @@
+    - GAME OF THRONES
+    - SEARHCING - https://www.anapioficeandfire.com/api/characters 
+    - DATA FETCH - https://www.anapioficeandfire.com/api/characters/1
+    - NO key required
+
+    - MARVEL 
+    - SEARCHING - https://gateway.marvel.com/v1/public/stories
+    - DATA FETCH - https://gateway.marvel.com/v1/public/stories/{storiesId}/characters
+    - API Key required
+
+    - MARVEL 
+    - SEARCHING - https://gateway.marvel.com/v1/public/events
+    - DATA FETCH - https://gateway.marvel.com/v1/public/events/{eventsId}/stories
+    - API Key required

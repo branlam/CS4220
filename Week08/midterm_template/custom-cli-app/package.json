@@ -1,0 +1,15 @@
+{
+  "name": "custom-cli-app",
+  "version": "1.0.0",
+  "description": "game of thrones character search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandon lam",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^4.1.0",
+    "yargs": "^13.2.2"
+  }
+}

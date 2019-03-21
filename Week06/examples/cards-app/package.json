@@ -11,6 +11,6 @@
   "dependencies": {
     "inquirer": "^6.2.2",
     "superagent": "^4.1.0",
-    "yargs": "^13.2.1"
+    "yargs": "^13.2.2"
   }
 }
