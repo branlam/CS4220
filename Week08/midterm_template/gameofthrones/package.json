@@ -1,14 +1,15 @@
 {
-  "name": "custom-cli-app",
+  "name": "gameofthrones",
   "version": "1.0.0",
-  "description": "game of thrones character search",
-  "main": "app.js",
+  "description": "Game of Thrones Character Search",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "brandon lam",
+  "author": "Brandon Lam",
   "license": "ISC",
   "dependencies": {
+    "inquirer": "^6.2.2",
     "superagent": "^4.1.0",
     "yargs": "^13.2.2"
   }
