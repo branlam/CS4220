@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>VanillaJS</title>
+
+</head>
+
+<body>
+    <input type="text" id="txtInUsersName" placeholder="Enter your name">
+    <h3>Hello, <span id="usersName"></span></h3>
+    
+    <script>
+        // Get a reference to the text input
+        document.getElementById('txtInUsersName').addEventListener('input', (event) => {
+            // Get the current value (user's name) from the text input
+            const name = document.getElementById('txtInUsersName').value
+            // Update the SPAN in the H1 with the User's name
+            document.getElementById('usersName').innerHTML = name
+        })
+    </script>
+</body>
+
+</html>
