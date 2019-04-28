@@ -121,18 +121,20 @@ Homework/Lab and/or Project assignments may be submitted up to 24 hours late wit
 
 **Week 8**
  - Continue Interacting with APIs
- - Building a Server with Node
- - Serving static HTML
+ - Demo CLIs
+ - Extended Lab for Midterm questions
 
 <br/>
 
 **Week 9**
- - MIDTERM
+ - MIDTERM DUE
  
 <br/>
  
 **Week 10**
- - NO CLASS - SPRING BREAK
+ - ONLINE CLASS LECTURE
+ - Building a Server with Node
+ - Serving static HTML
 
 <hr/>
 
